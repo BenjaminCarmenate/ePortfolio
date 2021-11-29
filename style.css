@@ -1,0 +1,54 @@
+h1{
+    font-size: 9vh;
+    text-shadow: .3vh .3vh #7C9395;
+}
+
+.HeaderLink{
+    font-size: 3vh;
+    text-shadow: .2vh .2vh #7C9395;
+}
+
+.HeaderLink a{
+    padding: 1vh;
+}
+
+.HeaderLink a:link {
+    color: #F0EDEE;
+}
+.HeaderLink a:hover{
+    color: #7c939500;
+    text-shadow: .2vh .2vh #7C9395;
+}
+.HeaderLink a:active{
+    color: #7c939500;
+    text-shadow: .2vh .2vh #7C9395;
+}
+
+a:visited{
+    color: #F0EDEE;
+}
+
+.header{
+    background-color: #110f14;
+    margin: 0vh;
+    padding: .1vh;
+    text-align: center;
+    color: #F0EDEE;
+    width: 100%;
+    font-family: 'Comforter Brush', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+.boxes{
+    background-color: #F0EDEE;
+    border-radius: 0.5vh;
+    margin: 1vh;
+    padding: 1vh;
+    text-align: center;
+}
+
+body{
+    margin:0;
+    padding:0;
+    background-color: #444245;
+}
