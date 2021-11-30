@@ -6,6 +6,8 @@ h1{
 .HeaderLink{
     font-size: 3vh;
     text-shadow: .2vh .2vh #7C9395;
+    margin: 0vh;
+    padding: 0vh;
 }
 
 .HeaderLink a{
@@ -17,7 +19,7 @@ h1{
 }
 .HeaderLink a:hover{
     color: #7c939500;
-    text-shadow: .2vh .2vh #7C9395;
+    text-shadow: .2vh .2vh #bdbcbc;
 }
 .HeaderLink a:active{
     color: #7c939500;
@@ -35,17 +37,22 @@ a:visited{
     text-align: center;
     color: #F0EDEE;
     width: 100%;
-    font-family: 'Comforter Brush', cursive;
     font-family: 'Pacifico', cursive; 
     
 }
 
 .boxes{
     background-color: #F0EDEE;
-    border-radius: 0.5vh;
-    margin: 1vh;
+    border-radius: 1vh;
+    margin: 10vh;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
     padding: 1vh;
     text-align: center;
+    font-size: 3vh;
+}
+p{
+    font-family: 'Bebas Neue', sans-serif;
 }
 
 body{
